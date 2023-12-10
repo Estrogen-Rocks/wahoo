@@ -1,9 +1,9 @@
 [
     {
         "Author": "yoinky",
-        "Name": "ExamplePlugin",
+        "Name": "PuppetMaster",
         "Description": "A short one-liner that shows up in /xlplugins.",
-        "InternalName": "vulpineMaster",
+        "InternalName": "PuppetMaster",
         "AssemblyVersion": "0.0.0.1",
         "TestingAssemblyVersion": "0.0.0.1",
         "RepoUrl": "https://github.com/Estrogen-Rocks/wahoo/new/main",
